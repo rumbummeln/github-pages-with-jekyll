@@ -1,5 +1,5 @@
 ---
-title: "rummbummeln Weltreise Blog"
+rummbummeln Weltreise Blog
 ---
 
 Danke für deinen Besuch auf unserem Blog! 🦖
