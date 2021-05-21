@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "rummbummeln Weltreise Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Danke für deinen Besuch auf unserem Blog! 🦖
