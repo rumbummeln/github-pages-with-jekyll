@@ -1,5 +1,5 @@
 ---
-title: "Rumbummeln Reiseblog"
+title: "Lausen - Wohin jetzt?"
 date: 2021-05-21
 ---
 
